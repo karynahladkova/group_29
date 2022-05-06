@@ -1,8 +1,6 @@
 1) iPhone 11
 2) iPhone 12
 3) Xiaomi p20
-^C
+4) Samsung 250
+5) Samsung s22
 
-
-[A[A[A[B[B[B[A[A[A[C[C
-[A[B[C[A4) Samsung 250
